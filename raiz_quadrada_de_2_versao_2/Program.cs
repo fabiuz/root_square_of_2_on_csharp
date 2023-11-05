@@ -497,10 +497,16 @@ public class Program
                     }
                     
                     digitos.Add((byte)digito_raiz);
+                    Console.Write($"{digito_raiz},");
                     
                     // Contabiliza quantos dígitos foram encontrados.
                     qt_vz_por_digito[digito_raiz] += 1;
                     qt_de_digitos += 1;
+
+                    if (qt_de_digitos == 100)
+                    {
+                        return;
+                    }
 
                     if (qt_de_digitos % 10000 == 0)
                     {
