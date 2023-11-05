@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raiz_quadrada_de_2_versao_1", "raiz_quadrada_de_2_versao_1\raiz_quadrada_de_2_versao_1.csproj", "{DF7113BD-B938-4988-9AB4-FF343AAE17C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raiz_quadrada_de_2_versao_2", "raiz_quadrada_de_2_versao_2\raiz_quadrada_de_2_versao_2.csproj", "{4458FB6D-FB23-416D-8F48-F0BCB57A1D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raiz_quadrada_de_2_versao_2_test", "raiz_quadrada_de_2_versao_2_test\raiz_quadrada_de_2_versao_2_test.csproj", "{4EB3F3B9-58F6-4159-B612-27E6A8CBA89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7113BD-B938-4988-9AB4-FF343AAE17C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7113BD-B938-4988-9AB4-FF343AAE17C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7113BD-B938-4988-9AB4-FF343AAE17C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7113BD-B938-4988-9AB4-FF343AAE17C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4458FB6D-FB23-416D-8F48-F0BCB57A1D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4458FB6D-FB23-416D-8F48-F0BCB57A1D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4458FB6D-FB23-416D-8F48-F0BCB57A1D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4458FB6D-FB23-416D-8F48-F0BCB57A1D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB3F3B9-58F6-4159-B612-27E6A8CBA89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB3F3B9-58F6-4159-B612-27E6A8CBA89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB3F3B9-58F6-4159-B612-27E6A8CBA89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB3F3B9-58F6-4159-B612-27E6A8CBA89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
